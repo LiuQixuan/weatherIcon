@@ -2,11 +2,14 @@
 
 # 天气矢量图标
 
+![天气图标](https://github.com/LiuQixuan/weatherIcon/blob/main/assert/png/shortcut%20001.png?raw=true)
+
 ## introduce
 
 自己设计的一套符合GB/T 22164-2017 公共气象服务天气图形符号标准(以下简称国家标准)的天气图标
 
 ## feature:
+
 1. svg矢量格式,体积小,可无限延展,适应各种开发需求
 2. 导出了png格式方便一般开发需求
 3. 图标符合国家标准
